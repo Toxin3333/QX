@@ -229,7 +229,7 @@ https://sso.yuetoto.com/api/v2/avatar/1249ac9fff2fe2082b7138c6e59b716d, tag=YueT
 [dns]
 
 ;prefer-doh3
-;doh-server = https://223.5.5.5/dns-query, https://223.6.6.6/dns-query
+doh-server = https://223.5.5.5/dns-query, https://223.6.6.6/dns-query
 # > QuantumultX开启IPV6方法，删去下面的「no-ipv6」，在「VPN」栏中，开启「兼容性增强」
 no-ipv6
 no-system

@@ -190,6 +190,16 @@ https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/SmzdmAds.con
 https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/AmapAds.conf, tag=高德地图净化[卸载重装]@ddgksf2013, img-url=https://github.com/ddgksf2013/Icon/raw/master/qx/gaode.png, update-interval=86400, opt-parser=false, enabled=true
 https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/NeteaseAds.conf, tag=网易云净化@ddgksf2013, img-url=https://github.com/Koolson/Qure/raw/master/IconSet/mini/Netease_Music.png, update-interval=86400, opt-parser=false, enabled=true
 https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/GoofishAds.conf, tag=闲鱼净化[卸载重装]@ddgksf2013, img-url=https://github.com/ddgksf2013/Icon/raw/master/qx/xianyu.png, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/ChinaUnicomAds.conf
+https://ddgksf2013.top/scripts/soutushenqi.vip.js
+https://github.com/ddgksf2013/Scripts/raw/master/12306.js
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf
+https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/Didichuxing.snippet
+https://raw.githubusercontent.com/VirgilClyne/iRingo/main/snippet/Location.snippet
+https://github.com/NSRingo/WeatherKit/releases/latest/download/WeatherKit.snippet
+https://raw.githubusercontent.com/wf021325/qx/master/js/jd_price.js
+https://github.com/ddgksf2013/Rewrite/raw/master/Html/Douban.conf
+https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Snippet/GoogleCAPTCHA.snippet
 
 
 # ======= 网页优化 ======= #
@@ -260,6 +270,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Quant
 https://raw.githubusercontent.com/ddgksf2013/Filter/master/GoogleVoice.list, tag=Google Voice, img-url=https://raw.githubusercontent.com/ddgksf2013/Icon/master/qx/googlevoice.png, force-policy=美国节点, update-interval=172800, opt-parser=true, enabled=true
 https://gist.githubusercontent.com/ddgksf2013/cb4121e8b5c5d865cc949cb8120320c4/raw/Ai.yaml, tag=Ai-All-In-One, img-url=https://raw.githubusercontent.com/ddgksf2013/Icon/master/qx/ai.png, force-policy=美国节点, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Spotify/Spotify.list, tag=Spotify音乐, img-url=https://github.com/Koolson/Qure/raw/master/IconSet/mini/Spotify.png, force-policy=声田音乐, update-interval=172800, opt-parser=true, enabled=true
+https://github.com/ddgksf2013/Filter/blob/master/Emby.list
 https://raw.githubusercontent.com/ddgksf2013/Filter/master/Streaming.list, tag=国际媒体, force-policy=国际媒体, img-url=https://github.com/Koolson/Qure/raw/master/IconSet/mini/GlobalMedia.png, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/ddgksf2013/Filter/master/StreamingSE.list, tag=哔哩哔哩, img-url=https://github.com/Koolson/Qure/raw/master/IconSet/mini/bilibili.png, force-policy=哔哩哔哩, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Apple/Apple.list, tag=苹果服务, img-url=https://github.com/Koolson/Qure/raw/master/IconSet/mini/Apple.png, force-policy=苹果服务, update-interval=172800, opt-parser=true, enabled=true

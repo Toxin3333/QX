@@ -141,7 +141,7 @@ server_check_timeout = 3000
 # > 用于设置图标显示
 profile_img_url=https://github.githubassets.com/images/modules/site/integrators/google.png
 # > 用于Check节点IP地址(以下geo_location_checker任选一个即可)
-geo_location_checker=disabled
+geo_location_checker=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/IP_API.js
 ;geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/IP_API.js
 # > 功能强大的解析器，用于引用资源的转换
 resource_parser_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js
@@ -222,7 +222,7 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/QX.snippet
 [server_remote]
 
 # > 魔法仅供临时使用from@Ruk1ng001
-https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml#delreg=.*&rename=@tg%40ddgksf2021-+@num-$index7, tag=🐟临时使用, update-interval=3600, opt-parser=true, enabled=true
+https://sso.yuetoto.com/api/v2/avatar/1249ac9fff2fe2082b7138c6e59b716d, tag=YueToo, update-interval=36000, opt-parser=true, enabled=true
 
 
 
